@@ -5,7 +5,7 @@
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
-Welcome to my github profile, where I try to be more active
+Welcome to my github profile.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
