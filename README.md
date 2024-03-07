@@ -1,8 +1,21 @@
 ﻿# yassirsalmi
- <a href= "https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif"></a>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="Centered Image">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm yassir</h1>
 <h3 align="center">A passionate developer from morocco</h3>
+
+<div align="center" id="badges">
+  <a href="www.linkedin.com/in/yassir-salmi">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/syassir_1">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
