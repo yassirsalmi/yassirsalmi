@@ -1,11 +1,9 @@
-﻿# yassirsalmi
-
 <p align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="Centered Image">
 </p>
 
 
-<h1 align="center">Hi 👋, I'm yassir</h1>
+<h1 align="center">Hi, I'm yassir 👋</h1>
 <h3 align="center">A passionate developer from morocco</h3>
 
 <div align="center" id="badges">
