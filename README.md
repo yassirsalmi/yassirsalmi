@@ -2,8 +2,10 @@
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="Centered Image">
 </p>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=63F7B0&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yassir!;" />
+</h1>
 
-<h1 align="center">Hi, I'm yassir 👋</h1>
 <h3 align="center">A passionate developer from morocco</h3>
 
 <div align="center" id="badges">
