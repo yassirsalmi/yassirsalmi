@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer & a Master's Student in Data Science from morocco</h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <div align="center">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
@@ -52,10 +52,10 @@
 </div>
 <hr>
 
-<h3 align="left">Stats:</h3>
+<h2 align="left">Stats:</h2>
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassirsalmi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="yassirsalmi" />
 
-<h3 align="left">How to reach me:</h3>
+<h2 align="left">How to reach me:</h2>
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/yassir-salmi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
