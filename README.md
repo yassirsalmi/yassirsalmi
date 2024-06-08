@@ -54,7 +54,7 @@
 
 <h2 align="left">Stats:</h2>
 <div align="center">
-    <img width="40%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassirsalmi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="yassirsalmi" />
+    <img width="30%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassirsalmi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="yassirsalmi" />
     <img width="40%" src="https://github-readme-stats.vercel.app/api?username=yassirsalmi&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="yassirsalmi" />
 </div>
 
